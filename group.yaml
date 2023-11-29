@@ -1,6 +1,5 @@
 apiVersion: user.openshift.io/v1
 kind: Group
 metadata:
-  name: prod-group
-users:
-- test
+  name: user-group
+users: null
