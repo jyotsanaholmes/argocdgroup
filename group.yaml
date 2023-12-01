@@ -1,5 +1,5 @@
 apiVersion: user.openshift.io/v1
 kind: Group
 metadata:
-  name: user-group
-users: null
+  name: new-group
+users: []
